@@ -2,8 +2,4 @@ aaaaaa
 bbbbbb
 cccccc
 dddddd
-666666
-777777
-555555
-888888
-000000
+
